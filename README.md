@@ -1,1 +1,1 @@
-# kkurianski.github.io
+# Kristin Kurianski, Ph.D.
