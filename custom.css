@@ -1,10 +1,10 @@
 /*Remove "Home" from homepage but keep Home in nav*/
-.home .page-title {
+body.home h1.page-title {
   display: none;
 }
 
 /*Override default content width*/
-.wrapper {
+main.wrapper {
   max-width: 1000px;
-  padding: 0 2rem;
+  width: 90%/
 }
