@@ -24,7 +24,7 @@ I'm an Assistant Professor of Mathematics at California State University Fullert
 <!-- CLEAR THE FLOAT so second paragraph starts clean -->
 <div style="clear: both;"></div>
 
-<!-- SECOND SECTION: cat photos and wrapped text -->
+<!-- Stack two images on the right -->
 <div style="float: right; margin-left: 1.5rem; margin-bottom: 1rem; max-width: 200px;">
   <img src="/images/lucius.JPG" alt="Cat on blanket" style="width: 100%; margin-bottom: 1rem;" />
   <img src="/images/cooper.jpg" alt="Cat on book" style="width: 100%;" />
