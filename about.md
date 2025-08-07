@@ -24,22 +24,26 @@ I'm an Assistant Professor of Mathematics at California State University Fullert
 <!-- Clear previous float -->
 <div style="clear: both;"></div>
 
-<!-- Float two stacked images on the right with a wrapper that enforces layout -->
-<div style="float: right; margin-left: 1.5rem; margin-bottom: 1rem; width: 200px;">
-  <div style="margin-bottom: 1rem;">
-    <img src="/images/lucius.jpg" alt="Cat on blanket" style="width: 100%;" />
-    <div style="font-size: 0.9rem; text-align: center; margin-top: 0.25rem;"></div>
-  </div>
-  <div>
-    <img src="/images/cooper.jpg" alt="Cat near book" style="width: 100%;" />
-    <div style="font-size: 0.9rem; text-align: center; margin-top: 0.25rem;"></div>
-  </div>
-</div>
-
 <p>
 In my free time, I enjoy playing soccer (midfield/striker), baking desserts, and reading fantasy novels (a favorite of mine being 
     The Stormlight Archive by Brandon Sanderson, and I'm currently making my way through The Wheel of Time series by Robert Jordan).
     I also play the flute in the <a href="https://www.fullerton.edu/arts/music/students/ensembles/band.php">CSUF University Band</a>, 
     and perhaps most importantly, I have two cats (Lucius and Cooper).
 </p>
+
+<!-- Clear any previous floats -->
+<div style="clear: both;"></div>
+
+<!-- Side-by-side cat photos centered horizontally -->
+<div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
+  <div>
+    <img src="/images/lucius.jpg" alt="Cat on blanket" style="max-width: 200px; width: 100%;" />
+    <div style="text-align: center; font-size: 0.9rem; margin-top: 0.25rem;"></div>
+  </div>
+  <div>
+    <img src="/images/cooper.jpg" alt="Cat with book" style="max-width: 200px; width: 100%;" />
+    <div style="text-align: center; font-size: 0.9rem; margin-top: 0.25rem;"></div>
+  </div>
+</div>
+
 
