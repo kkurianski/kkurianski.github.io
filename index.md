@@ -12,11 +12,13 @@ title: Home
     <p>I'm an Assistant (soon-to-be Associate) Professor at California State University, Fullerton. I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
   </div>
 </div>
+<br />
 
 ## Upcoming Meetings
 - Joint SIAM/CAIMS Annual Meetings \| Montreal, Canada \| July 2025
 - Collaborate@ICERM \| June 2026
 
+<p style="text-align: center;">
 ## Contact
 
-[Email](mailto:kkurianski@fullerton.edu) \| [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/).
+[Email](mailto:kkurianski@fullerton.edu) \| [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/)</p>
