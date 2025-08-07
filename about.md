@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="overflow: hidden; margin-bottom: 2rem;">
-  <img src="/images/grads23.JPG" alt="Photo 1" style="float: right; max-width: 300px; margin-left: 1.5rem; margin-bottom: 1rem;" />
+  <img src="/images/grads23.JPG" alt="Photo 1" style="float: right; max-width: 350px; margin-left: 1.5rem; margin-bottom: 1rem;" />
   <p>
     I'm an Assistant Professor of Mathematics at California State University Fullerton (CSUF), a 2024-2026 MGB-SIAM Early Career Fellow, and a 2020 Project NExT Brown Dot.
     I earned my B.S. in applied mathematics from Cal Poly Pomona and my Ph.D. in mathematics from MIT under the supervision of Gigliola Staffilani.
