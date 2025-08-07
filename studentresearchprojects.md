@@ -34,8 +34,8 @@ permalink: /studentresearch/
 </div>
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
-  <img src="/images/tumorparam_project.png" alt="Chaotic disease dynamics project" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
-  <p><strong>Stability analysis over parameter space for cancerous tumor growth</strong><br />
+  <img src="/images/tumorparam_project.png" alt="Stability for tumor model" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
+  <p><strong>Stability analysis over parameter space in a cancerous tumor growth model</strong><br />
     <em>Justin Solis (Underaduate)</em>, DeLand Fellowship<br />
     <em>Joshua Espinosa (Underaduate)</em>, Math Summer Research Program<br />
     2022-2023
