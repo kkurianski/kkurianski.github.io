@@ -7,7 +7,7 @@ permalink: /studentresearch/
 # Student Research Projects
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
-  <img src="/images/tda_project.png" alt="TDA resource allocation" style="float: left; max-width: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
+  <img src="/images/tda_project.png" alt="TDA resource allocation" style="float: left; max-height: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
   <p><strong>Investigating resource allocation for wildfire prevention using topological data analysis</strong><br />
     <em>Giovani Guitierrez, Graduate</em><br />
     <em>Enzo Mediana, Undergraduate</em><br />
@@ -22,7 +22,7 @@ permalink: /studentresearch/
 </div>
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
-  <img src="/images/tumorflowkick_project.png" alt="Flow-kick model for tumor dynamics" style="float: left; max-width: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
+  <img src="/images/tumorflowkick_project.png" alt="Flow-kick model for tumor dynamics" style="float: left; max-height: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
   <p><strong>A flow-kick model for tumor, immune, and normal cell interactions under drug treatment</strong><br />
     <em>Sasha Tafolla, Graduate</em><br />
     2025<br />
@@ -34,7 +34,7 @@ permalink: /studentresearch/
 </div>
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
-  <img src="/images/tda_project.png" alt="Classical guitar project" style="float: left; max-width: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
+  <img src="/images/guitar_project.png" alt="Classical guitar project" style="float: left; max-height: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
   <p><strong>Exploring classical guitar playing techniques through signal processing</strong><br />
     <em>Victor Sanchez, Undergraduate</em><br />
     2020-2021<br />
