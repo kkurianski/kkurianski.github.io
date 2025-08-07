@@ -18,7 +18,7 @@ title: Home
 - Joint SIAM/CAIMS Annual Meetings \| Montreal, Canada \| July 2025
 - Collaborate@ICERM \| June 2026
 
-<p style="text-align: center;">
+<center>
 ## Contact
 
-[Email](mailto:kkurianski@fullerton.edu) \| [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/)</p>
+[Email](mailto:kkurianski@fullerton.edu) \| [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/)</center>
