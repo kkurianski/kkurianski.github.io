@@ -1,3 +1,9 @@
+---
+layout: page
+title: Student Resources
+permalink: /studentresources/
+---
+
 #Society for Industrial and Applied Mathematics
 
 I am the faculty advisor for the SIAM Student Chapter at CSUF. The Society for Industrial and Applied Mathematics (SIAM) is a professional organization for applied mathematicians. SIAM publishes journals, hosts conferences, offers networking opportunities, and provides career and research resources for students. The existence of a SIAM Student Chapter allows all CSUF students to obtain a free SIAM Student Membership.
