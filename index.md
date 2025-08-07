@@ -7,7 +7,7 @@ title: Kristin Kurianski, Ph.D.
 
 I'm an applied mathematics researcher with active projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.
 
-## Recent Projects
+## Recent/Ongoing Projects
 
 - **[Infectious disease with changeable attitudes towards vaccination](https://www.aimspress.com/article/doi/10.3934/mbe.2025011)**
 - **[Microscale flows through permeable membranes](https://meetings.siam.org/sess/dsp_talk.cfm?p=148024)**
