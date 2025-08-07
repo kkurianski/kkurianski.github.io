@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 # Kristin Kurianski
-**Assistant Professor of Mathematics**
+**Assistant Professor of Mathematics**<br />
 **California State University, Fullerton**
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
