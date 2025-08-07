@@ -15,7 +15,7 @@ permalink: /research/
 - Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. Phys. Rev. Fluids. 2(11), 113602. DOI: 10.1103/PhysRevFluids.2.113602
 - Dettmers, K. M., Giza, R., Morales, R., Rock, J. A., & Knox, C. (2017). A survey of complex dimensions, measurability, and the lattice/nonlattice dichotomy. Discrete & Continuous Dynamical Systems - S. 10, 213-240.
 
-# Professional society memberships
+# Professional Society Memberships
 - Society for Industrial and Applied Mathematics (SIAM)
 - Association for Women in Mathematics (AWM)
 - American Mathematical Society (AMS)
