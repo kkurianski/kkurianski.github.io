@@ -1,14 +1,10 @@
----
----
-
-@import "minima";
-
-/* Override default max-width */
+/* Widen wrapper */
 .wrapper {
   max-width: 1000px;
-  padding: 0 2rem;
+  width: 90%;
 }
 
+/* Remove Home title from home page */
 body.home h1.page-title {
   display: none;
 }
