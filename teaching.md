@@ -18,3 +18,14 @@ permalink: /teaching/
   <li><a href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=80&coid=541336">MATH 107 - Introduction to Computational Linear Algebra</a></li>
   <li><a href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=80&coid=539101">MATH 150A - Calculus I</a></li>
 </ul>
+# Other Courses
+**MIT**
+- 18.01: Single Variable Calculus (Spring 2019)
+- Differential Equations, [MITES Program](https://mites.mit.edu/) (Summer 2018)
+**MOOC Development**
+- 18.01x Single Variable Calculus Series, Online Facilitator
+  - [Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
+  - [Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
+  - [Coordinate Systems \& Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
+- 18.02x Multivariable Calculus Series, Content Developer
+- 18.03x Introduction to Differential Equations and 2x2 Systems, Online Instructor and Content Developer
