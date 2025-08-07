@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: ""
 ---
 # Kristin Kurianski
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
