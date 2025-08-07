@@ -20,7 +20,7 @@ title: Home
       </li>
     </ul>
   </div>
-  <div style="flex: 0 0 150px;">
+  <div style="flex: 0 0 250px;">
     <img src="/images/2022_0Kurianski_headshot.png" alt="Kristin Kurianski headshot" style="max-width: 100%; border-radius: 8px;" />
   </div>
 </div>
