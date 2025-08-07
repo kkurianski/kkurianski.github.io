@@ -3,17 +3,16 @@ layout: home
 title: Kristin Kurianski, Ph.D.
 ---
 
-Welcome to my personal website. I'm a researcher, educator, and project leader working at the intersection of mathematics, equity, and technology.
-
 ## About
 
-This section can include a short bio or mission statement.
+I'm an applied mathematics researcher with active projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.
 
-## Projects
+## Recent Projects
 
-- **Project Name** – brief description or [link](#) to more details.
-- **Another Project** – short explanation.
+- **[Infectious disease with changeable attitudes towards vaccination](https://www.aimspress.com/article/doi/10.3934/mbe.2025011)**
+- **[Microscale flows through permeable membranes](https://meetings.siam.org/sess/dsp_talk.cfm?p=148024)**
+- **[Equity-minded active learning in mathematics](https://www.mdpi.com/2227-7102/14/9/1001)**
 
 ## Contact
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com) or connect via [LinkedIn](#).
+[kkurianski (at) fullerton (dot) edu](mailto:kkurianski@fullerton.edu) or connect via [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/).
