@@ -5,6 +5,7 @@ permalink: /studentresearch/
 ---
 
 # Projects
+<p>The following student projects are those which resulted in a poster and/or presentation. I have conducted research with other students through CSUF's MATH 497 research course that did not necessarily result in a poster or presentation.</p>
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
   <img src="/images/tda_project.png" alt="TDA resource allocation" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
@@ -33,7 +34,7 @@ permalink: /studentresearch/
 </div>
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
-  <img src="/images/chaosdisease_project.png" alt="Chaotic disease dynamics project" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
+  <img src="/images/tumorparam_project.png" alt="Chaotic disease dynamics project" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
   <p><strong>Stability analysis over parameters for cancerous tumor growth</strong><br />
     <em>Justin Solis (Underaduate)</em>, DeLand Fellowship<br />
     <em>Joshua Espinosa (Underaduate)</em>, Math Summer Research Program<br />
