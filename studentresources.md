@@ -15,4 +15,4 @@ Please contact me if you have questions or want to learn more about the organiza
 # Mathematics Research, Academic, and Career Opportunities
 
 Below is a list of resources and opportunities that I have come across over the years. I try to keep this as up-to-date as possible, but some links may be old.
-<p><iframe src="https://docs.google.com/document/d/e/2PACX-1vRj_8ycAPxBt8ACn29hb61LxDBSE7ajaEqI1F3XXVFB3MT8JeGc-WI2y-lFfGPe2M_F06Ogoueh6u_g/pub?embedded=true" height="500"></iframe></p>
+<p><iframe src="https://docs.google.com/document/d/e/2PACX-1vRj_8ycAPxBt8ACn29hb61LxDBSE7ajaEqI1F3XXVFB3MT8JeGc-WI2y-lFfGPe2M_F06Ogoueh6u_g/pub?embedded=true" width="100%"></iframe></p>
