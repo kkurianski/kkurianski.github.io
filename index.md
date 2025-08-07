@@ -21,5 +21,5 @@ title: Home
 <h2 style="text-align:center;">Contact</h2>
 <div style="text-align:center;">
   <a href="mailto:kkurianski@fullerton.edu">Email</a> | 
-  <a href="https://www.linkedin.com/in/kristin-kurianski/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kristin-kurianski">LinkedIn</a>
 </div>
