@@ -14,6 +14,7 @@ title: Home
       </li>
       <li>
         MAA SoCal-Nev Section Meeting \| Fullerton, CA \| October 2025
+      </li>
       <li>
         Collaborate@ICERM \| Providence, RI \| June 2026
       </li>
