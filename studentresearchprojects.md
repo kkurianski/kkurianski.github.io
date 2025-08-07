@@ -4,7 +4,7 @@ title: Student Research
 permalink: /studentresearch/
 ---
 
-# Student Research Projects
+# Projects
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
   <img src="/images/tda_project.png" alt="TDA resource allocation" style="float: left; max-height: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
