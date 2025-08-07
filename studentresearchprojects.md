@@ -33,6 +33,15 @@ permalink: /studentresearch/
 </div>
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
+  <img src="/images/chaosdisease_project.png" alt="Chaotic disease dynamics project" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
+  <p><strong>Stability analysis over parameters for cancerous tumor growth</strong><br />
+    <em>Justin Solis (Underaduate)</em>, DeLand Fellowship<br />
+    <em>Joshua Espinosa (Underaduate)</em>, Math Summer Research Program<br />
+    2022-2023
+  </p>
+</div>
+
+<div style="margin-bottom: 2rem; overflow: hidden;">
   <img src="/images/guitar_project.png" alt="Classical guitar project" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
   <p><strong>Exploring classical guitar playing techniques through signal processing</strong><br />
     <em>Victor Sanchez (Undergraduate)</em>, Math Alliance Scholar, Sally Casanova Pre-Doctoral Program, Summer Undergraduate Research Academy<br />
