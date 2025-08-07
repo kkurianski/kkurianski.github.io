@@ -45,7 +45,7 @@ _Disease Spread and Opinion Dynamics_<br/>
 7/13/2024 - 7/16/2024, Award amount: \$5,600 for travel and lodging support<br/>
 Co-PIs: Lihong Zhao, Kristin Kurianski, Anna Nelson, Lora Bailey, Casey Johnson, Weiqi Chu, and Pushpi Paranamana
 
-**CSUF Junior/Senior Intramural Grant**<br/>
+- **CSUF Junior/Senior Intramural Grant**<br/>
 _Fixed and flexible ideologies in a differential equation model for infectious disease with mass vaccination_<br/>
 Spring 2025, Award: 3 WTU Release Time<br/>
 PI: Kristin Kurianski
