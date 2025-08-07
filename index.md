@@ -2,11 +2,11 @@
 layout: home
 title: Home
 ---
-# Kristin Kurianski
-**Assistant Professor of Mathematics**<br />
-**California State University, Fullerton**
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
+    <h1>Kristin Kurianski</h1>
+    <p><strong>Assistant Professor of Mathematics<br />
+    California State University, Fullerton</strong></p>
     <p>I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
     <h1>Upcoming Meetings</h1>
     <ul>
