@@ -1,11 +1,5 @@
-title: "Kristin Kurianski, Ph.D."
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-
-plugins:
-  - jekyll-include-cache
-
-# Optional but recommended
-minimal_mistakes_skin: "default"  # or "dark", "air", etc.
+theme: minima
+title: ""
 
 header_pages:
 - index.md
