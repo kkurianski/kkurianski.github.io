@@ -9,7 +9,7 @@ title: Home
   </div>
   <div style="flex: 1; min-width: 250px;">
     <h1>About</h1>
-    <p>I'm an Assistant (soon-to-be Associate) Professor at California State University, Fullerton. I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
+    <p>I'm an Assistant Professor at California State University, Fullerton. I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
   </div>
 </div>
 <br />
