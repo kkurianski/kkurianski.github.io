@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
