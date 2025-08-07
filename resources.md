@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Student Resources
-permalink: /studentresources/
+title: Resources
+permalink: /resources/
 ---
 
 # Society for Industrial and Applied Mathematics
