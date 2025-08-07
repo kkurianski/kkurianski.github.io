@@ -6,9 +6,3 @@ header_pages:
 - research.md
 - teaching.md
 - studentresources.md
-
-sass:
-  style: compressed
-
-minima:
-  skin: classic
