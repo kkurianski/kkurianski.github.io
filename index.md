@@ -20,14 +20,14 @@ title: Kristin Kurianski, Ph.D.
 - **[Equity-minded active learning in mathematics](https://www.mdpi.com/2227-7102/14/9/1001)**
 
 ## Current Funding
-**California Education Learning Lab: Building Critical Mass for Data Science**
-_Programs for Institutional Pathway Engagement -- acceLerating INfrastructure and Education (PIPE-LINE)_
+**California Education Learning Lab: Building Critical Mass for Data Science**<br />
+_Programs for Institutional Pathway Engagement -- acceLerating INfrastructure and Education (PIPE-LINE)_<br />
 7/1/2023 - 6/30/2027, $1,275,000, Co-PIs: Jessica Jaynes, Sam Behseta, Armando Martinez-Cruz, Kristin Kurianski, Anand Panangadan, Babak Shahbaba, Mary Legner, Marc Sanchez, Veronica Holbrook
 [Grant website](https://pipelinedatascience.org/)
 
-**Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**
-_Quantifying tumor resilience to drug treatment using a flow-kick model_
-Spring - Summer 2025, $11,820, Graduate Student Researcher: Sasha Tafolla.
+**Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**<br />
+_Quantifying tumor resilience to drug treatment using a flow-kick model_<br />
+Jan.-Aug. 2025, $11,820, Graduate Student Researcher: Sasha Tafolla.
 
 ## Contact
 
