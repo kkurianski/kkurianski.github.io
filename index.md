@@ -13,6 +13,16 @@ I'm an applied mathematics researcher with active projects broadly in mathematic
 - **[Microscale flows through permeable membranes](https://meetings.siam.org/sess/dsp_talk.cfm?p=148024)**
 - **[Equity-minded active learning in mathematics](https://www.mdpi.com/2227-7102/14/9/1001)**
 
+## Current Funding
+**California Education Learning Lab: Building Critical Mass for Data Science**
+_Programs for Institutional Pathway Engagement -- acceLerating INfrastructure and Education (PIPE-LINE)_
+7/1/2023 - 6/30/2027, $1,275,000, Co-PIs: Jessica Jaynes, Sam Behseta, Armando Martinez-Cruz, Kristin Kurianski, Anand Panangadan, Babak Shahbaba, Mary Legner, Marc Sanchez, Veronica Holbrook
+[Grant website](https://pipelinedatascience.org/)
+
+**Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**
+_Quantifying tumor resilience to drug treatment using a flow-kick model_
+Spring - Summer 2025, $11,820, Graduate Student Researcher: Sasha Tafolla.
+
 ## Contact
 
 [kkurianski (at) fullerton (dot) edu](mailto:kkurianski@fullerton.edu) or connect via [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/).
