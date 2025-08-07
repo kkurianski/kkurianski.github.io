@@ -23,7 +23,7 @@ permalink: /about/
     In my free time, I enjoy playing soccer (midfield/striker), baking desserts, and reading fantasy novels (a favorite of mine being 
     The Stormlight Archive by Brandon Sanderson, and I'm currently making my way through The Wheel of Time series by Robert Jordan).
     I also play the flute in the <a href="https://www.fullerton.edu/arts/music/students/ensembles/band.php">CSUF University Band</a>, 
-    and perhaps most importantly, I have two cats (Cooper and Lucius).
+    and perhaps most importantly, I have two cats (Lucius and Cooper).
   </p>
 </div>
 
