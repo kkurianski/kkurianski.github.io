@@ -1,4 +1,5 @@
 theme: minima
+title: ""
 
 header_pages:
 - index.md
