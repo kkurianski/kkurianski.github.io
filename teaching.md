@@ -21,6 +21,7 @@ permalink: /teaching/
 **MIT**
 - 18.01: Single Variable Calculus (Spring 2019)
 - Differential Equations, [MITES Program](https://mites.mit.edu/) (Summer 2018)
+
 **MOOC Development**
 - 18.01x Single Variable Calculus Series, Online Facilitator
   - [Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
