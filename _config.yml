@@ -5,6 +5,10 @@ header_pages:
 - index.md
 - research.md
 - teaching.md
+- studentresources.md
 
-assets:
-  css: custom.css
+sass:
+  style: compressed
+
+minima:
+  skin: classic
