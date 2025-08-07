@@ -21,13 +21,19 @@ I'm an Assistant Professor of Mathematics at California State University Fullert
     Massive Open Online Courses through <a href="https://www.edx.org/school/mitx">MITx/edX</a>.
 </p>
 
-<!-- CLEAR THE FLOAT so second paragraph starts clean -->
+<!-- Clear previous float -->
 <div style="clear: both;"></div>
 
-<!-- Stack two images on the right -->
-<div style="float: right; margin-left: 1.5rem; margin-bottom: 1rem; max-width: 200px;">
-  <img src="/images/lucius.JPG" alt="Cat on blanket" style="width: 100%; margin-bottom: 1rem;" />
-  <img src="/images/cooper.jpg" alt="Cat on book" style="width: 100%;" />
+<!-- Float two stacked images on the right with a wrapper that enforces layout -->
+<div style="float: right; margin-left: 1.5rem; margin-bottom: 1rem; width: 200px;">
+  <div style="margin-bottom: 1rem;">
+    <img src="/images/lucius.jpg" alt="Cat on blanket" style="width: 100%;" />
+    <div style="font-size: 0.9rem; text-align: center; margin-top: 0.25rem;"></div>
+  </div>
+  <div>
+    <img src="/images/cooper.jpg" alt="Cat near book" style="width: 100%;" />
+    <div style="font-size: 0.9rem; text-align: center; margin-top: 0.25rem;"></div>
+  </div>
 </div>
 
 <p>
