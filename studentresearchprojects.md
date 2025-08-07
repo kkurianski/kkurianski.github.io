@@ -34,6 +34,15 @@ permalink: /studentresearch/
 </div>
 
 <div style="margin-bottom: 2rem; overflow: hidden;">
+  <img src="/images/chaosdisease_project.png" alt="Chaotic disease dynamics project" style="float: left; max-height: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
+  <p><strong>Chaotic dynamics in infectious disease model with changeable attitudes toward vaccination</strong><br />
+    <em>Avery Brinkley, Underaduate</em><br />
+    2024<br />
+      <p>In recent outbreaks, vaccine hesitancy affected the control of disease spread as people's attitudes towards vaccination changed. We explore periodic and potentially chaotic dynamics of a system of differential equations modeling this phenomenon.</p>
+  </p>
+</div>
+
+<div style="margin-bottom: 2rem; overflow: hidden;">
   <img src="/images/guitar_project.png" alt="Classical guitar project" style="float: left; max-height: 150px; margin-right: 1rem; margin-bottom: 1rem;" />
   <p><strong>Exploring classical guitar playing techniques through signal processing</strong><br />
     <em>Victor Sanchez, Undergraduate</em><br />
