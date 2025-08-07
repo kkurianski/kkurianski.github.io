@@ -25,9 +25,9 @@ I'm an Assistant Professor of Mathematics at California State University Fullert
 <div style="clear: both;"></div>
 
 <!-- SECOND SECTION: cat photos and wrapped text -->
-<div style="float: left; margin-right: 1rem; margin-bottom: 1rem; max-width: 200px;">
-  <img src="/images/lucius.jpg" alt="Cat on blanket" style="width: 100%; margin-bottom: 1rem;" />
-  <img src="/images/cooper.jpg" alt="Cat with book" style="width: 100%;" />
+<div style="float: right; margin-left: 1.5rem; margin-bottom: 1rem; max-width: 200px;">
+  <img src="/images/lucius.JPG" alt="Cat on blanket" style="width: 100%; margin-bottom: 1rem;" />
+  <img src="/images/cooper.jpg" alt="Cat on book" style="width: 100%;" />
 </div>
 
 <p>
