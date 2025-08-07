@@ -11,13 +11,13 @@ title: Home
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
-        Joint SIAM/CAIMS Annual Meetings | Montreal, Canada | July 2025
+        Joint SIAM/CAIMS Annual Meetings<br />Montreal, Canada | July 2025
       </li>
       <li>
-        MAA SoCal-Nev Section Meeting | Fullerton, CA | October 2025
+        MAA SoCal-Nev Section Meeting<br />Fullerton, CA | October 2025
       </li>
       <li>
-        Collaborate@ICERM | Providence, RI | June 2026
+        Collaborate@ICERM<br />Providence, RI | June 2026
       </li>
     </ul>
   </div>
