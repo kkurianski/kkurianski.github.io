@@ -3,13 +3,12 @@ layout: home
 title: Kristin Kurianski, Ph.D.
 ---
 
-## About
-
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 0 0 150px;">
     <img src="/images/2022_0Kurianski_headshot.png" alt="Kristin Kurianski headshot" style="max-width: 100%; border-radius: 8px;" />
   </div>
   <div style="flex: 1; min-width: 250px;">
+    <h1>About</h1>
     <p>I'm an applied mathematics researcher with active projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
   </div>
 </div>
