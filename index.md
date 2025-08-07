@@ -13,22 +13,10 @@ title: Home
   </div>
 </div>
 
-## Recent/Ongoing Projects
-
-- **[Infectious disease with changeable attitudes towards vaccination](https://www.aimspress.com/article/doi/10.3934/mbe.2025011)**
-- **[Microscale flows through permeable membranes](https://meetings.siam.org/sess/dsp_talk.cfm?p=148024)**
-- **[Equity-minded active learning in mathematics](https://www.mdpi.com/2227-7102/14/9/1001)**
-
-## Current Funding
-**California Education Learning Lab: Building Critical Mass for Data Science**<br />
-_Programs for Institutional Pathway Engagement -- acceLerating INfrastructure and Education (PIPE-LINE)_<br />
-7/1/2023 - 6/30/2027, $1,275,000, Co-PIs: Jessica Jaynes, Sam Behseta, Armando Martinez-Cruz, Kristin Kurianski, Anand Panangadan, Babak Shahbaba, Mary Legner, Marc Sanchez, Veronica Holbrook
-[Grant website](https://pipelinedatascience.org/)
-
-**Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**<br />
-_Quantifying tumor resilience to drug treatment using a flow-kick model_<br />
-Jan.-Aug. 2025, $11,820, Graduate Student Researcher: Sasha Tafolla.
+## Upcoming Meetings
+- Joint SIAM/CAIMS Annual Meetings | Montreal, Canada | July 2025
+- Collaborate@ICERM | June 2026
 
 ## Contact
 
-[kkurianski (at) fullerton (dot) edu](mailto:kkurianski@fullerton.edu) or connect via [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/).
+[Email](mailto:kkurianski@fullerton.edu) | [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/).
