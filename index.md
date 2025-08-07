@@ -19,4 +19,7 @@ title: Home
 - Collaborate@ICERM \| June 2026
 
 <h2 style="text-align:center;">Contact</h2>
-[Email](mailto:kkurianski@fullerton.edu) \| [LinkedIn](https://www.linkedin.com/in/kristin-kurianski/)</center>
+<div style="text-align:center;">
+  <a href="mailto:kkurianski@fullerton.edu">Email</a> | 
+  <a href="https://www.linkedin.com/in/kristin-kurianski/">LinkedIn</a>
+</div>
