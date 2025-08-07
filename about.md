@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 I earned my B.S. in applied mathematics from Cal Poly Pomona and my Ph.D. in mathematics from MIT under the supervision of Gigliola Staffilani. 
-I'm a first-generation college student, and as an undergrad I participated in the [McNair Scholars Program](http://www.fullerton.edu/mcnair/), 
+I'm a first-generation college student, and as an undergrad I participated in the [McNair Scholars Program](https://www.cpp.edu/mcnair/index.shtml), 
 the [Math Alliance](https://www.mathalliance.org/), and the [MIT Summer Research Program](https://oge.mit.edu/graddiversity/msrp/) 
 (I encourage students to check out all of them!). After receiving my doctorate, 
 I stayed at MIT for an additional year as a Postdoctoral Associate in Digital Learning where I helped develop and facilitate 
