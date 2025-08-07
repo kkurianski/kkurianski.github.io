@@ -4,3 +4,6 @@ title: ""
 header_pages:
 - index.md
 - research.md
+
+assets:
+  css: custom.css
