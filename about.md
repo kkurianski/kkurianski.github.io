@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<!-- FIRST SECTION: two stacked images and wrapped paragraph -->
-<div style="float: left; margin-right: 1.5rem; margin-bottom: 1rem; max-width: 200px;">
-  <img src="/images/grads23.JPG" alt="Group photo" style="width: 100%; margin-bottom: 1rem;" />
-  <img src="/images/siuetalk2.jpg" alt="Presentation photo" style="width: 100%;" />
-</div>
+<!-- Left image -->
+<img src="/images/grads23.jpg" alt="Group photo" style="float: left; max-width: 180px; margin-right: 1rem; margin-bottom: 1rem;" />
+
+<!-- Right image -->
+<img src="/images/siuetalk2.jpg" alt="Presentation photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem;" />
 
 <p>
 I'm an Assistant Professor of Mathematics at California State University Fullerton (CSUF), a 2024-2026 MGB-SIAM Early Career Fellow, and a 2020 Project NExT Brown Dot.
@@ -37,11 +37,11 @@ In my free time, I enjoy playing soccer (midfield/striker), baking desserts, and
 <!-- Side-by-side cat photos centered horizontally -->
 <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
   <div>
-    <img src="/images/lucius.jpg" alt="Cat on blanket" style="max-width: 200px; width: 100%;" />
+    <img src="/images/lucius.jpg" alt="Cat on blanket" style="max-height: 200px; width: 100%;" />
     <div style="text-align: center; font-size: 0.9rem; margin-top: 0.25rem;"></div>
   </div>
   <div>
-    <img src="/images/cooper.jpg" alt="Cat with book" style="max-width: 200px; width: 100%;" />
+    <img src="/images/cooper.jpg" alt="Cat with book" style="max-height: 200px; width: 100%;" />
     <div style="text-align: center; font-size: 0.9rem; margin-top: 0.25rem;"></div>
   </div>
 </div>
