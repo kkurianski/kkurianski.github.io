@@ -33,4 +33,4 @@ title: Home
   <a href="https://www.linkedin.com/in/kristin-kurianski">LinkedIn</a>
 </div>
 
-<p><sup><sub>Site last modified: August 8, 2025</sup></p>
+<p><sup><sub>Site last modified: August 8, 2025</sub></sup></p>
