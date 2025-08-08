@@ -24,6 +24,8 @@ I'm an Assistant Professor of Mathematics at California State University Fullert
 <!-- Clear previous float -->
 <div style="clear: both;"></div>
 
+<div style="margin-top: 1.5rem;"></div>
+
 <p>
 In my free time, I enjoy playing soccer (midfield/striker), baking desserts, and reading fantasy novels (a favorite of mine being 
     The Stormlight Archive by Brandon Sanderson, and I'm currently making my way through The Wheel of Time series by Robert Jordan).
