@@ -8,7 +8,7 @@ permalink: /about/
 <img src="/images/grads23.JPG" alt="Group photo" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem;" />
 
 <!-- Right image -->
-<img src="/images/siuetalk2.jpg" alt="Presentation photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem;" />
+<img src="/images/siuetalk3.jpg" alt="Presentation photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem;" />
 
 <p>
 I'm an Assistant Professor of Mathematics at California State University Fullerton (CSUF), a <a href="https://www.siam.org/publications/siam-news/articles/2024-class-of-mgb-siam-early-career-fellows/">2024-2026 MGB-SIAM Early Career Fellow</a>, and a <a href="https://maa.org/maa-project-next/">2020 Project NExT</a> Brown Dot.
