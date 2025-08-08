@@ -16,6 +16,8 @@ permalink: /research/
 
 - Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. _Phys. Rev. Fluids_, 2(11), 113602. [DOI: 10.1103/PhysRevFluids.2.113602](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602)
 
+<hr />
+
 # Funding and Support
 - **Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**<br />
 _Quantifying tumor resilience to drug treatment using a flow-kick model_<br />
