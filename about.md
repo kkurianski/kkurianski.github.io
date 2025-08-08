@@ -39,11 +39,11 @@ In my free time, I enjoy playing soccer (midfield/striker), baking desserts, and
 <!-- Side-by-side cat photos centered horizontally -->
 <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
   <div>
-    <img src="/images/lucius.jpg" alt="Cat on blanket" style="max-height: 200px; width: 100%;" />
+    <img src="/images/lucius.jpg" alt="Cat on blanket" style="max-height: 200px; width: 100%; border-radius: 5px;" />
     <div style="text-align: center; font-size: 0.9rem; margin-top: 0.25rem;"></div>
   </div>
   <div>
-    <img src="/images/cooper.jpg" alt="Cat with book" style="max-height: 200px; width: 100%;" />
+    <img src="/images/cooper.jpg" alt="Cat with book" style="max-height: 200px; width: 100%; border-radius: 8px;" />
     <div style="text-align: center; font-size: 0.9rem; margin-top: 0.25rem;"></div>
   </div>
 </div>
