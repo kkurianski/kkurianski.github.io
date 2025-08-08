@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!-- Left image -->
-<img src="/images/grads23.jpg" alt="Group photo" style="float: left; max-width: 180px; margin-right: 1rem; margin-bottom: 1rem;" />
+<img src="/images/grads23.JPG" alt="Group photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem;" />
 
 <!-- Right image -->
 <img src="/images/siuetalk2.jpg" alt="Presentation photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem;" />
