@@ -86,6 +86,8 @@ _Exploring Classical Guitar Playing Techniques through Signal Processing_<br/>
 6/7/2021 - 8/6/2021, Award amount: \$4,500<br/>
 PI/Faculty Mentor: Kristin Kurianski, Undergraduate Researcher: Victor Sanchez.
 
+<hr />
+
 # Awards and Fellowships
 - 2024-2026 MGB-SIAM Early Career Fellowship
 - 2024 CSUF Faculty Development Center Faculty Recognition for Scholarly and Creative Activities
@@ -96,6 +98,8 @@ PI/Faculty Mentor: Kristin Kurianski, Undergraduate Researcher: Victor Sanchez.
 - 2019  Massachusetts Institute of Technology Graduate Women of Excellence Award
 - 2014  National Science Foundation Graduate Research Fellowship
 - 2014  Massachusetts Institute of Technology Dean of Science Fellowship
+
+<hr />
 
 # Professional Society Memberships
 - Society for Industrial and Applied Mathematics (SIAM)
