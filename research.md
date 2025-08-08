@@ -16,7 +16,6 @@ permalink: /research/
 
 - Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. _Phys. Rev. Fluids_, 2(11), 113602. [DOI: 10.1103/PhysRevFluids.2.113602](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602)
 
-<hr />
 
 # Funding and Support
 - **Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**<br />
@@ -86,7 +85,6 @@ _Exploring Classical Guitar Playing Techniques through Signal Processing_<br/>
 6/7/2021 - 8/6/2021, Award amount: \$4,500<br/>
 PI/Faculty Mentor: Kristin Kurianski, Undergraduate Researcher: Victor Sanchez.
 
-<hr />
 
 # Awards and Fellowships
 - 2024-2026 MGB-SIAM Early Career Fellowship
@@ -99,7 +97,6 @@ PI/Faculty Mentor: Kristin Kurianski, Undergraduate Researcher: Victor Sanchez.
 - 2014  National Science Foundation Graduate Research Fellowship
 - 2014  Massachusetts Institute of Technology Dean of Science Fellowship
 
-<hr />
 
 # Professional Society Memberships
 - Society for Industrial and Applied Mathematics (SIAM)
