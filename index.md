@@ -32,3 +32,5 @@ title: Home
   <a href="mailto:kkurianski@fullerton.edu">Email</a> | 
   <a href="https://www.linkedin.com/in/kristin-kurianski">LinkedIn</a>
 </div>
+
+<p><sup><sub>Site last modified: August 8, 2025</sup></p>
