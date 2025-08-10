@@ -23,9 +23,6 @@ permalink: /teaching/
 - Differential Equations, [MITES Program](https://mites.mit.edu/) (Summer 2018)
 
 **MOOC Development**
-- 18.01x Single Variable Calculus Series, Online Facilitator
-  - [Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
-  - [Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
-  - [Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
-- 18.02x Multivariable Calculus Series, Content Developer
-- 18.03x Introduction to Differential Equations and 2x2 Systems, Online Instructor and Content Developer
+- 18.01x Single Variable Calculus Series: [Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/), [Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/), and [Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/), Online Facilitator
+- [18.02x Multivariable Calculus Series, Content Developer](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.02.1x/)
+- 18.03x [Introduction to Differential Equations](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/) and [NxN Systems](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.3x/), Online Instructor and Content Developer
