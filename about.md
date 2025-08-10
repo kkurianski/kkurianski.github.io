@@ -19,6 +19,7 @@ I'm an Assistant Professor of Mathematics at California State University Fullert
     (I encourage students to check out all of them!). After receiving my doctorate, 
     I stayed at MIT for an additional year as a Postdoctoral Associate in Digital Learning where I helped develop and facilitate 
     Massive Open Online Courses through <a href="https://www.edx.org/school/mitx">MITx/edX</a>.
+    I then moved back to my home state in 2020 to start my position at CSUF.
 </p>
 
 <!-- Clear previous float -->
