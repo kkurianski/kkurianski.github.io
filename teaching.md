@@ -26,6 +26,6 @@ permalink: /teaching/
 - 18.01x Single Variable Calculus Series, Online Facilitator
   - [Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
   - [Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
-  - [Coordinate Systems \& Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
+  - [Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
 - 18.02x Multivariable Calculus Series, Content Developer
 - 18.03x Introduction to Differential Equations and 2x2 Systems, Online Instructor and Content Developer
