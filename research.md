@@ -4,17 +4,24 @@ title: Research
 permalink: /research/
 ---
 
-# Selected Publications
-
-- Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. _Math. Biosci. Eng._, 22(2), 260-289. [DOI: 10.3934/mbe.2025011](https://www.aimspress.com/article/doi/10.3934/mbe.2025011)
-
-- Stone-Johnstone, A., Kurianski, K., Soto, R., & Marzocchi, A. (2024). Mathematics Equity through Teaching Actively: Centering Equity in our Active Learning Pursuits. _PRIMUS_, 1-14. [DOI: 10.1080/10511970.2024.2354813](https://www.tandfonline.com/doi/full/10.1080/10511970.2024.2354813)
-
-- Garrido, M. A., Grande, R., Kurianski, K. M., & Staffilani, G. (2023). Large deviations principle for the cubic NLS equation. _Communications on Pure and Applied Mathematics_, 76, 4087-4136. [DOI: 10.1002/cpa.22131](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22131)
-
-- Grande, R., Kurianski, K. M., & Staffilani, G. (2021). On the nonlinear Dysthe equation. _Nonlinear Analysis_, 207, 112292. [DOI: 10.1016/j.na.2021.112292](https://www.sciencedirect.com/science/article/pii/S0362546X21000341).
-
-- Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. _Phys. Rev. Fluids_, 2(11), 113602. [DOI: 10.1103/PhysRevFluids.2.113602](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602)
+<h1>Selected Publications</h1>
+<ul>
+  <li>
+    Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011", style="color:MidnightBlue">DOI: 10.3934/mbe.2025011</a>
+  </li>
+  <li>
+    Stone-Johnstone, A., Kurianski, K., Soto, R., & Marzocchi, A. (2024). Mathematics Equity through Teaching Actively: Centering Equity in our Active Learning Pursuits. <emph>PRIMUS</emph>, 1-14. <a href="https://www.tandfonline.com/doi/full/10.1080/10511970.2024.2354813" style="color:MidnightBlue">DOI: 10.1080/10511970.2024.2354813</a>
+  </li>
+  <li>
+    Garrido, M. A., Grande, R., Kurianski, K. M., & Staffilani, G. (2023). Large deviations principle for the cubic NLS equation. <emph>Communications on Pure and Applied Mathematics, 76</emph>, 4087-4136. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22131" style="color:MidnightBlue">DOI: 10.1002/cpa.22131</a>
+  </li>
+  <li>
+    Grande, R., Kurianski, K. M., & Staffilani, G. (2021). On the nonlinear Dysthe equation. <emph>Nonlinear Analysis, 207</emph>, 112292. <a href="https://www.sciencedirect.com/science/article/pii/S0362546X21000341" style="color:MidnightBlue">DOI: 10.1016/j.na.2021.112292</a>
+  </li>
+  <li>
+    Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. <emph>Phys. Rev. Fluids, 2</emph>(11), 113602. <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602" style="color:MidnightBlue">DOI: 10.1103/PhysRevFluids.2.113602</a>
+  </li>
+</ul>
 
 
 # Funding and Support
