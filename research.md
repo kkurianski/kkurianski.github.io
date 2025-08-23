@@ -40,7 +40,7 @@ Co-PIs: Jessica Jaynes, Sam Behseta, Armando Martinez-Cruz, Kristin Kurianski, A
 _Transforming Undergraduate Mathematics Education through Faculty Development in Active Learning and Equity-minded Instruction_, Proposal \#2142122<br/>
 2/1/2022 - 1/31/2025, Award amount: $297,118<br/>
 Co-PIs: Alison Marzocchi, Roberto Soto, Kristin Kurianski, and Amelia Stone-Johnstone<br/>
-<a href="https://sites.google.com/fullerton.edu/csufmeta/" style="colorMidnightBlue">META Grant website</a>
+<a href="https://sites.google.com/fullerton.edu/csufmeta/" style="color:MidnightBlue">META Grant website</a>
 
 - **Summer Undergraduate Research Academy (SUReA) at CSUF**<br/>
 _Investigating Chaos in Infectious Disease Dynamics with Changeable Attitudes toward Vaccination_<br/>
