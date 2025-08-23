@@ -34,7 +34,7 @@ PI/Faculty Mentor: Kristin Kurianski, Graduate Student Researcher: Sasha Tafolla
 _Programs for Institutional Pathway Engagement -- acceLerating INfrastructure and Education_<br/>
 7/1/2023 - 6/30/2027, Award amount: \$1,275,000<br/>
 Co-PIs: Jessica Jaynes, Sam Behseta, Armando Martinez-Cruz, Kristin Kurianski, Anand Panangadan, Babak Shahbaba, Mary Legner, Marc Sanchez, Veronica Holbrook<br/>
-[Grant website](https://pipelinedatascience.org/)
+<a href="https://pipelinedatascience.org/" style="color:MidnightBlue">PIPELINE Grant website</a>
 
 - **National Science Foundation Improving Undergraduate STEM Education**<br/>
 _Transforming Undergraduate Mathematics Education through Faculty Development in Active Learning and Equity-minded Instruction_, Proposal \#2142122<br/>
