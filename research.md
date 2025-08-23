@@ -3,8 +3,8 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
-<h1>Selected Publications</h1>
+<h1 aria-label="Research"></h1>
+<h2>Selected Publications</h2>
 <ul>
   <li>
     Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011" style="color:MidnightBlue">DOI: 10.3934/mbe.2025011</a>
@@ -24,7 +24,7 @@ permalink: /research/
 </ul>
 
 
-# Funding and Support
+<h2>Funding and Support</h2>
 - **Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**<br />
 _Quantifying tumor resilience to drug treatment using a flow-kick model_<br />
 Spring - Summer 2025, Award amount: \$11,820<br/>
@@ -93,7 +93,7 @@ _Exploring Classical Guitar Playing Techniques through Signal Processing_<br/>
 PI/Faculty Mentor: Kristin Kurianski, Undergraduate Researcher: Victor Sanchez.
 
 
-# Awards and Fellowships
+<h2>Awards and Fellowships</h2>
 - 2024-2026 MGB-SIAM Early Career Fellowship
 - 2024 CSUF Faculty Development Center Faculty Recognition for Scholarly and Creative Activities
 - 2022 CSUF Faculty Development Center Faculty Recognition for Teaching
@@ -105,7 +105,7 @@ PI/Faculty Mentor: Kristin Kurianski, Undergraduate Researcher: Victor Sanchez.
 - 2014  Massachusetts Institute of Technology Dean of Science Fellowship
 
 
-# Professional Society Memberships
+<h2>Professional Society Memberships</h2>
 - Society for Industrial and Applied Mathematics (SIAM)
 - Association for Women in Mathematics (AWM)
 - American Mathematical Society (AMS)
