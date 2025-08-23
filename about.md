@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<h1 aria-label="About"></h1>
 <!-- Left image -->
 <img src="/images/grads23.JPG" alt="Group photo" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem; border-radius: 5px;" />
 
