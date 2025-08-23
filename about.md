@@ -11,7 +11,7 @@ permalink: /about/
 <img src="/images/siuetalk3.jpg" alt="Presentation photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem; border-radius: 5px;" />
 
 <p>
-I'm an Associate Professor of Mathematics at California State University Fullerton (CSUF), a <a href="https://www.siam.org/publications/siam-news/articles/2024-class-of-mgb-siam-early-career-fellows/">2024-2026 MGB-SIAM Early Career Fellow</a>, and a <a href="https://maa.org/maa-project-next/">2020 Project NExT</a> Brown Dot.
+I'm an Associate Professor of Mathematics at California State University Fullerton (CSUF), a <a href="https://www.siam.org/publications/siam-news/articles/2024-class-of-mgb-siam-early-career-fellows/" style="color:blue">2024-2026 MGB-SIAM Early Career Fellow</a>, and a <a href="https://maa.org/maa-project-next/">2020 Project NExT</a> Brown Dot.
     I earned my B.S. in applied mathematics from Cal Poly Pomona and my Ph.D. in mathematics from MIT under the supervision of Gigliola Staffilani.
     As a graduate student, I was an NSF Graudate Research Fellow, an MIT Dean of Science Fellow, and a 2019 MIT Graduate Woman of Excellence.
     I'm a first-generation college student, and as an undergrad I participated in the <a href="https://www.cpp.edu/mcnair/index.shtml">McNair Scholars Program</a>, 
