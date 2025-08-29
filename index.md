@@ -11,6 +11,9 @@ title: Home
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
+        AMI Conference<br />Claremont, CA | October 2025
+      </li>
+      <li>
         MAA SoCal-Nev Section Meeting<br />Fullerton, CA | October 2025
       </li>
       <li>
