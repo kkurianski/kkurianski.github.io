@@ -33,4 +33,4 @@ title: Home
   <a href="https://www.linkedin.com/in/kristin-kurianski" style="color:MidnightBlue">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7550-4049" style="color:MidnightBlue">ORCiD</a>
 </div>
 
-<p><sup><sub>Site last modified: August 29, 2025</sub></sup></p>
+<p><sup><sub>Site last modified: September 3, 2025</sub></sup></p>
