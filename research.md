@@ -7,19 +7,19 @@ permalink: /research/
 <h2>Selected Publications</h2>
 <ul>
   <li>
-    Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011" style="color:MidnightBlue">DOI: 10.3934/mbe.2025011</a>
+    Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011" style="color:3366CC">DOI: 10.3934/mbe.2025011</a>
   </li>
   <li>
-    Stone-Johnstone, A., Kurianski, K., Soto, R., & Marzocchi, A. (2024). Mathematics Equity through Teaching Actively: Centering Equity in our Active Learning Pursuits. <emph>PRIMUS</emph>, 1-14. <a href="https://www.tandfonline.com/doi/full/10.1080/10511970.2024.2354813" style="color:MidnightBlue">DOI: 10.1080/10511970.2024.2354813</a>
+    Stone-Johnstone, A., Kurianski, K., Soto, R., & Marzocchi, A. (2024). Mathematics Equity through Teaching Actively: Centering Equity in our Active Learning Pursuits. <emph>PRIMUS</emph>, 1-14. <a href="https://www.tandfonline.com/doi/full/10.1080/10511970.2024.2354813" style="color:3366CC">DOI: 10.1080/10511970.2024.2354813</a>
   </li>
   <li>
-    Garrido, M. A., Grande, R., Kurianski, K. M., & Staffilani, G. (2023). Large deviations principle for the cubic NLS equation. <emph>Communications on Pure and Applied Mathematics, 76</emph>, 4087-4136. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22131" style="color:MidnightBlue">DOI: 10.1002/cpa.22131</a>
+    Garrido, M. A., Grande, R., Kurianski, K. M., & Staffilani, G. (2023). Large deviations principle for the cubic NLS equation. <emph>Communications on Pure and Applied Mathematics, 76</emph>, 4087-4136. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22131" style="color:3366CC">DOI: 10.1002/cpa.22131</a>
   </li>
   <li>
-    Grande, R., Kurianski, K. M., & Staffilani, G. (2021). On the nonlinear Dysthe equation. <emph>Nonlinear Analysis, 207</emph>, 112292. <a href="https://www.sciencedirect.com/science/article/pii/S0362546X21000341" style="color:MidnightBlue">DOI: 10.1016/j.na.2021.112292</a>
+    Grande, R., Kurianski, K. M., & Staffilani, G. (2021). On the nonlinear Dysthe equation. <emph>Nonlinear Analysis, 207</emph>, 112292. <a href="https://www.sciencedirect.com/science/article/pii/S0362546X21000341" style="color:3366CC">DOI: 10.1016/j.na.2021.112292</a>
   </li>
   <li>
-    Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. <emph>Phys. Rev. Fluids, 2</emph>(11), 113602. <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602" style="color:MidnightBlue">DOI: 10.1103/PhysRevFluids.2.113602</a>
+    Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. <emph>Phys. Rev. Fluids, 2</emph>(11), 113602. <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602" style="color:3366CC">DOI: 10.1103/PhysRevFluids.2.113602</a>
   </li>
 </ul>
 
@@ -34,13 +34,13 @@ PI/Faculty Mentor: Kristin Kurianski, Graduate Student Researcher: Sasha Tafolla
 _Programs for Institutional Pathway Engagement -- acceLerating INfrastructure and Education_<br/>
 7/1/2023 - 6/30/2027, Award amount: \$1,275,000<br/>
 Co-PIs: Jessica Jaynes, Sam Behseta, Armando Martinez-Cruz, Kristin Kurianski, Anand Panangadan, Babak Shahbaba, Mary Legner, Marc Sanchez, Veronica Holbrook<br/>
-<a href="https://pipelinedatascience.org/" style="color:MidnightBlue">PIPELINE Grant website</a>
+<a href="https://pipelinedatascience.org/" style="color:3366CC">PIPELINE Grant website</a>
 
 - **National Science Foundation Improving Undergraduate STEM Education**<br/>
 _Transforming Undergraduate Mathematics Education through Faculty Development in Active Learning and Equity-minded Instruction_, Proposal \#2142122<br/>
 2/1/2022 - 1/31/2025, Award amount: $297,118<br/>
 Co-PIs: Alison Marzocchi, Roberto Soto, Kristin Kurianski, and Amelia Stone-Johnstone<br/>
-<a href="https://sites.google.com/fullerton.edu/csufmeta/" style="color:MidnightBlue">META Grant website</a>
+<a href="https://sites.google.com/fullerton.edu/csufmeta/" style="color:3366CC">META Grant website</a>
 
 - **Summer Undergraduate Research Academy (SUReA) at CSUF**<br/>
 _Investigating Chaos in Infectious Disease Dynamics with Changeable Attitudes toward Vaccination_<br/>
