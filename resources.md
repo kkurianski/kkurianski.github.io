@@ -15,5 +15,5 @@ Please contact me if you have questions or want to learn more about the organiza
 
 <h2>Research, Academic, and Career Opportunities</h2>
 
-Below is a <a href="https://docs.google.com/document/d/1STAmEXSGrr9-8CtNvOTbPE25mmNWv_tvlxLXPAgKaDA/edit?usp=sharing">list of resources and opportunities</a> that I have come across over the years. I try to keep this as up-to-date as possible, but some links may be old.
+Below is a <a href="https://docs.google.com/document/d/1STAmEXSGrr9-8CtNvOTbPE25mmNWv_tvlxLXPAgKaDA/edit?usp=sharing" style="color:3366CC">list of resources and opportunities</a> that I have come across over the years. I try to keep this as up-to-date as possible, but some links may be old.
 <p><iframe src="https://docs.google.com/document/d/e/2PACX-1vRj_8ycAPxBt8ACn29hb61LxDBSE7ajaEqI1F3XXVFB3MT8JeGc-WI2y-lFfGPe2M_F06Ogoueh6u_g/pub?embedded=true" width="100%" height="800px"></iframe></p>
