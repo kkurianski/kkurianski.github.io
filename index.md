@@ -29,8 +29,8 @@ title: Home
 
 <h2 style="text-align:center;">Contact</h2>
 <div style="text-align:center;">
-  <a href="mailto:kkurianski@fullerton.edu" style="color:3366CC">Email</a> | 
-  <a href="https://www.linkedin.com/in/kristin-kurianski" style="color:3366CC">LinkedIn</a> | <a href="https://orcid.org/0000-0002-7550-4049" style="color:3366CC">ORCiD</a>
+  <strong><a href="mailto:kkurianski@fullerton.edu" style="color:3366CC">Email</a></strong> | 
+  <strong><a href="https://www.linkedin.com/in/kristin-kurianski" style="color:3366CC">LinkedIn</a></strong> | <strong><a href="https://orcid.org/0000-0002-7550-4049" style="color:3366CC">ORCiD</a></strong>
 </div>
 
-<p><sup><sub>Site last modified: September 15, 2025</sub></sup></p>
+<p><sup><sub>Site last modified: September 22, 2025</sub></sup></p>
