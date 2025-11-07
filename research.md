@@ -4,8 +4,9 @@ title: Research
 permalink: /research/
 ---
 <h1 aria-label="Research"></h1>
-<h2>Selected Publications</h2>
+<h2>Manuscripts</h2>
 <ul>
+  <li>Aminian, M., & Kurianski, K. M. (2025). Sparse identification of epidemiological compartment models with conserved quantities. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2510.19762">arXiv:2510.19762</a></strong>.</li>
   <li>
     Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011">doi: 10.3934/mbe.2025011</a></strong>
   </li>
