@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <h1 aria-label="Research"></h1>
-<h2>Selected Manuscripts</h2>
+<h2>Selected Papers</h2>
 <ul>
   <li>Aminian, M., & Kurianski, K. M. (2025). Sparse identification of epidemiological compartment models with conserved quantities. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2510.19762">arXiv:2510.19762</a></strong>.</li>
   <li>
