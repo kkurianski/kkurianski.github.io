@@ -95,6 +95,7 @@ PI/Faculty Mentor: Kristin Kurianski, Undergraduate Researcher: Victor Sanchez.
 
 
 <h2>Awards and Fellowships</h2>
+- 2025-2026 CSUF Provost Faculty Fellow
 - 2024-2026 MGB-SIAM Early Career Fellowship
 - 2024 CSUF Faculty Development Center Faculty Recognition for Scholarly and Creative Activities
 - 2022 CSUF Faculty Development Center Faculty Recognition for Teaching
