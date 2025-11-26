@@ -27,4 +27,4 @@ title: Home
   <strong><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kristin-kurianski" style="color:3366CC">LinkedIn</a></strong> | <strong><a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0002-7550-4049" style="color:3366CC">ORCiD</a></strong>
 </div>
 
-<p><sup><sub>Site last modified: November 10, 2025</sub></sup></p>
+<p><sup><sub>Site last modified: November 26, 2025</sub></sup></p>
