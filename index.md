@@ -13,6 +13,9 @@ title: Home
       <li>
         Collaborate@ICERM<br />Providence, RI | June 2026
       </li>
+      <li>
+        SIAM Annual Meeting<br />Cleveland, OH | July 2026
+      </li>
     </ul>
   </div>
   <div style="flex: 0 0 250px; align-self: flex-start;">
