@@ -30,8 +30,9 @@ permalink: /research/
 
 
 <h2>Funding and Support</h2>
-- **Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**<br />
-_Quantifying tumor resilience to drug treatment using a flow-kick model_<br />
+
+- **Engaging Graduate Students in Research, Scholarship, and Creative Activities (EG-RSCA) Program**<br/>
+_Quantifying tumor resilience to drug treatment using a flow-kick model_<br/>
 Spring - Summer 2025, Award amount: \$11,820<br/>
 PI/Faculty Mentor: Kristin Kurianski, Graduate Student Researcher: Sasha Tafolla.
 
