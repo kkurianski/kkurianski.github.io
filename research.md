@@ -8,7 +8,7 @@ permalink: /research/
 <ul>
   <li>
     Timofeyev T., Potvin, C., Jones, B., Kurianski, K. M,, Lopez, M., Tanweer, S. (2026). Asymmetrically Weighted Dowker Persistence and Applications in Dynamical Systems. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2601.04559">arXiv:2601.04559</a></strong>.
-  </li>
+  </li><br/>
   <li>Cicala, D., Jiang, Y., Lee, J. H., Kurianski, K., & Ledder, G. (2025). A Mathematical Model of Opinion Dynamics with Application to Vaccine Denial. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2511.18166">arXiv:2511.18166</a></strong>.</li>
   <li>Aminian, M., & Kurianski, K. M. (2025). Sparse identification of epidemiological compartment models with conserved quantities. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2510.19762">arXiv:2510.19762</a></strong>.</li>
   <li>
