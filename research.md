@@ -11,7 +11,7 @@ permalink: /research/
   </li><br/>
   <li>Cicala, D., Jiang, Y., Lee, J. H., Kurianski, K., & Ledder, G. (2025). A Mathematical Model of Opinion Dynamics with Application to Vaccine Denial. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2511.18166">arXiv:2511.18166</a></strong>.</li><br/>
   <li>Aminian, M., & Kurianski, K. M. (2025). Sparse identification of epidemiological compartment models with conserved quantities. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2510.19762">arXiv:2510.19762</a></strong>.</li>
-  <li><br/>
+  <li>
     Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011">doi: 10.3934/mbe.2025011</a></strong>
   </li><br/>
   <li>
