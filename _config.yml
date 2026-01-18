@@ -5,8 +5,7 @@ lang: en
 
 #plugins:
 #  - jekyll-remote-theme 
-linkedin_username: kristin-kurianski
-email: kkurianski@fullerton.edu
+linkedin_username: 
 
 header_pages:
 - index.md
