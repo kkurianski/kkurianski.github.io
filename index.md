@@ -18,8 +18,7 @@ title: Overview
   <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 350px;">
   <img src="/images/2022_0Kurianski_headshot.png"
        alt="Kristin Kurianski headshot"
-       style="width: 150px; border-radius: 8px; margin-bottom: 8px;" />
-       
+       style="width: 200px; border-radius: 8px; margin-bottom: 8px;" />
   <p style="margin: 0; line-height: 1.4;">
     <em>Associate Professor of Mathematics<br />
     California State University, Fullerton</em>
