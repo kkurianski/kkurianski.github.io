@@ -15,7 +15,7 @@ title: Overview
       </li>
     </ul>
   </div>
-  <div style="flex: 0 0 250px; align-self: flex-start;">
+  <div style="flex: 0 0 300px; align-self: flex-start;">
     <img src="/images/2022_0Kurianski_headshot.png" alt="Kristin Kurianski headshot" style="max-width: 100%; border-radius: 8px; margin-top: 0;" />
     <p style="margin-top: 8px;"><em>Associate Professor of Mathematics<br />
     California State University, Fullerton</em></p>
