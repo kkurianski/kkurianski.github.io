@@ -5,6 +5,7 @@ lang: en
 
 #plugins:
 #  - jekyll-remote-theme 
+linkedin_username: kristin-kurianski
 
 header_pages:
 - index.md
