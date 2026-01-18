@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
-  Note: All external links on this page open in a new tab.
+  Note: External links open in new tabs.
 </div>
 <h2>Selected Papers</h2>
 <ul>
