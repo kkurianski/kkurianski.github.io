@@ -25,11 +25,11 @@ title: Home
 <br />
 
 <div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
-  Note: External links open in new tabs.
+  Note: External links open in new tabs, and email links open default email applications.
 </div>
 <h2 style="text-align:center;">Contact</h2>
 <div style="text-align:center;">
-  <a href="mailto:kkurianski@fullerton.edu" style="color:#3366CC; font-weight: bold;">Email (opens your email application)</a> | 
+  <a href="mailto:kkurianski@fullerton.edu" style="color:#3366CC; font-weight: bold;">Email</a> | 
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kristin-kurianski" style="color:3366CC" font-weight: bold;>LinkedIn</a> | <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0002-7550-4049" style="color:3366CC" font-weight: bold;>ORCiD</a>
 </div>
 
