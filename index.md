@@ -15,11 +15,11 @@ title: Overview
       </li>
     </ul>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: flex-start; max-width: 350px;">
+  <div style="display: flex; flex-direction: column; align-items: center; max-width: 350px;">
   <img src="/images/2022_0Kurianski_headshot.png"
        alt="Kristin Kurianski headshot"
        style="width: 200px; border-radius: 8px; margin-bottom: 8px;" />
-  <p style="margin: 0; line-height: 1.4;">
+  <p style="margin: 0; line-height: 1.4; text-align: center;">
     <em>Associate Professor of Mathematics<br />
     California State University, Fullerton</em>
   </p>
