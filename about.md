@@ -3,16 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
+  Note: All external links on this page open in a new tab.
+</div>
 <!-- <h1 aria-label="About"></h1> -->
 <!-- Left image -->
 <img src="/images/grads23.JPG" alt="Group photo" style="float: left; max-width: 250px; margin-right: 1rem; margin-bottom: 1rem; border-radius: 5px;" />
 
 <!-- Right image -->
 <img src="/images/siuetalk3.jpg" alt="Presentation photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem; border-radius: 5px;" />
-
-<div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
-  Note: All external links on this page open in a new tab.
-</div>
 
 <p>
 I'm an Associate Professor of Mathematics at California State University Fullerton (CSUF), a <strong><a target="_blank" rel="noopener noreferrer" href="https://www.fullerton.edu/research/provost-faculty-fellows/">2025-2026 CSUF Provost Faculty Fellow</a></strong>, a <strong><a target="_blank" rel="noopener noreferrer" href="https://www.siam.org/publications/siam-news/articles/2024-class-of-mgb-siam-early-career-fellows/">2024-2026 MGB-SIAM Early Career Fellow</a></strong>, and a <strong><a target="_blank" rel="noopener noreferrer" href="https://maa.org/maa-project-next/">2020 Project NExT</a></strong> Brown Dot.
