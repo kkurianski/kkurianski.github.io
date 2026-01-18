@@ -8,13 +8,13 @@ title: Overview
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
-        WiMSoCal 2026<br />Los Angeles, CA <div class="vl"></div> February 2026
+        WiMSoCal 2026<br />Los Angeles, CA <div class="vertical-line"></div> February 2026
       </li>
       <li>
-        Collaborate@ICERM<br />Providence, RI <div class="vl"></div> June 2026
+        Collaborate@ICERM<br />Providence, RI <div class="vertical-line"></div> June 2026
       </li>
       <li>
-        SIAM Annual Meeting<br />Cleveland, OH <div class="vl"></div> July 2026
+        SIAM Annual Meeting<br />Cleveland, OH <div class="vertical-line"></div> July 2026
       </li>
     </ul>
   </div>
