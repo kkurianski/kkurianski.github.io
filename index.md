@@ -25,7 +25,7 @@ title: Home
 <br />
 
 <div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
-  Note: All external links on this page open in a new tab.
+  Note: External links open in new tabs.
 </div>
 <h2 style="text-align:center;">Contact</h2>
 <div style="text-align:center;">
