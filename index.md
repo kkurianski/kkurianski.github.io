@@ -8,6 +8,9 @@ title: Overview
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
+        WiMSoCal 2026<br />Los Angeles, CA | February 2026
+      </li>
+      <li>
         Collaborate@ICERM<br />Providence, RI | June 2026
       </li>
       <li>
