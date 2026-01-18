@@ -3,22 +3,24 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<h1 aria-label="Research"></h1>
+<div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
+  Note: All external links on this page open in a new tab.
+</div>
 <h2>Selected Papers</h2>
 <ul>
-  <li>Timofeyev T., Potvin, C., Jones, B., Kurianski, K. M,, Lopez, M., Tanweer, S. (2026). Asymmetrically Weighted Dowker Persistence and Applications in Dynamical Systems. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2601.04559" aria-label="arXiv:2601.04559 (opens in a new tab)">arXiv:2601.04559</a></strong>.
+  <li>Timofeyev T., Potvin, C., Jones, B., Kurianski, K. M,, Lopez, M., Tanweer, S. (2026). Asymmetrically Weighted Dowker Persistence and Applications in Dynamical Systems. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2601.04559">arXiv:2601.04559</a></strong>.
   </li><br/>
-  <li>Cicala, D., Jiang, Y., Lee, J. H., Kurianski, K., & Ledder, G. (2025). A Mathematical Model of Opinion Dynamics with Application to Vaccine Denial. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2511.18166" aria-label="arXiv:2511.18166 (opens in a new tab)">arXiv:2511.18166</a></strong>.</li><br/>
-  <li>Aminian, M., & Kurianski, K. M. (2025). Sparse identification of epidemiological compartment models with conserved quantities. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2510.19762" aria-label="arXiv:2501.19762 (opens in a new tab)">arXiv:2510.19762</a></strong>.</li><br/>
-  <li>Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011" aria-label="doi: 10.3934/mbe.2025011 (opens in a new tab)">doi: 10.3934/mbe.2025011</a></strong>
+  <li>Cicala, D., Jiang, Y., Lee, J. H., Kurianski, K., & Ledder, G. (2025). A Mathematical Model of Opinion Dynamics with Application to Vaccine Denial. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/abs/2511.18166">arXiv:2511.18166</a></strong>.</li><br/>
+  <li>Aminian, M., & Kurianski, K. M. (2025). Sparse identification of epidemiological compartment models with conserved quantities. (arXiv preprint) <strong><a target="_blank" rel="noopener noreferrer" href="https://arxiv.org/pdf/2510.19762">arXiv:2510.19762</a></strong>.</li><br/>
+  <li>Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011">doi: 10.3934/mbe.2025011</a></strong>
   </li><br/>
-  <li>Stone-Johnstone, A., Kurianski, K., Soto, R., & Marzocchi, A. (2024). Mathematics Equity through Teaching Actively: Centering Equity in our Active Learning Pursuits. <emph>PRIMUS</emph>, 1-14. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.tandfonline.com/doi/full/10.1080/10511970.2024.2354813" aria-label="doi: 10.1080/10511970.2024.2354813 (opens in a new tab)">doi: 10.1080/10511970.2024.2354813</a></strong>
+  <li>Stone-Johnstone, A., Kurianski, K., Soto, R., & Marzocchi, A. (2024). Mathematics Equity through Teaching Actively: Centering Equity in our Active Learning Pursuits. <emph>PRIMUS</emph>, 1-14. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.tandfonline.com/doi/full/10.1080/10511970.2024.2354813">doi: 10.1080/10511970.2024.2354813</a></strong>
   </li><br/>
-  <li>Garrido, M. A., Grande, R., Kurianski, K. M., & Staffilani, G. (2023). Large deviations principle for the cubic NLS equation. <emph>Communications on Pure and Applied Mathematics, 76</emph>, 4087-4136. <strong><a target="_blank" rel="noopener noreferrer" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22131" aria-label="doi: 10.1002/cpa.22131 (opens in a new tab)">doi: 10.1002/cpa.22131</a></strong>
+  <li>Garrido, M. A., Grande, R., Kurianski, K. M., & Staffilani, G. (2023). Large deviations principle for the cubic NLS equation. <emph>Communications on Pure and Applied Mathematics, 76</emph>, 4087-4136. <strong><a target="_blank" rel="noopener noreferrer" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22131">doi: 10.1002/cpa.22131</a></strong>
   </li><br/>
-  <li>Grande, R., Kurianski, K. M., & Staffilani, G. (2021). On the nonlinear Dysthe equation. <emph>Nonlinear Analysis, 207</emph>, 112292. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0362546X21000341" aria-label="doi: 10.1016/j.na.2021.112292 (opens in a new tab)">doi: 10.1016/j.na.2021.112292</a></strong>
+  <li>Grande, R., Kurianski, K. M., & Staffilani, G. (2021). On the nonlinear Dysthe equation. <emph>Nonlinear Analysis, 207</emph>, 112292. <strong><a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S0362546X21000341">doi: 10.1016/j.na.2021.112292</a></strong>
   </li><br/>
-  <li>Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. <emph>Phys. Rev. Fluids, 2</emph>(11), 113602. <strong><a target="_blank" rel="noopener noreferrer" href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602" aria-label="doi: 10.1103/PhysRevFluids.2.113602 (opens in a new tab)">doi: 10.1103/PhysRevFluids.2.113602</a></strong>
+  <li>Kurianski, K. M., Oza, A. U., & Bush, J. W. M. (2017). Simulations of pilot-wave dynamics in a simple harmonic potential. <emph>Phys. Rev. Fluids, 2</emph>(11), 113602. <strong><a target="_blank" rel="noopener noreferrer" href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.2.113602">doi: 10.1103/PhysRevFluids.2.113602</a></strong>
   </li>
 </ul>
 
@@ -34,13 +36,13 @@ PI/Faculty Mentor: Kristin Kurianski, Graduate Student Researcher: Sasha Tafolla
 _Programs for Institutional Pathway Engagement -- acceLerating INfrastructure and Education_<br/>
 7/1/2023 - 6/30/2027, Award amount: \$1,275,000<br/>
 Co-PIs: Jessica Jaynes, Sam Behseta, Armando Martinez-Cruz, Kristin Kurianski, Anand Panangadan, Babak Shahbaba, Mary Legner, Marc Sanchez, Veronica Holbrook<br/>
-<strong><a target="_blank" rel="noopener noreferrer" href="https://pipelinedatascience.org/" aria-label="PIPELINE Grant website (opens in a new tab)">PIPELINE Grant website</a></strong>
+<strong><a target="_blank" rel="noopener noreferrer" href="https://pipelinedatascience.org/">PIPELINE Grant website</a></strong>
 
 - **National Science Foundation Improving Undergraduate STEM Education**<br/>
 _Transforming Undergraduate Mathematics Education through Faculty Development in Active Learning and Equity-minded Instruction_, Proposal \#2142122<br/>
 2/1/2022 - 1/31/2025, Award amount: $297,118<br/>
 Co-PIs: Alison Marzocchi, Roberto Soto, Kristin Kurianski, and Amelia Stone-Johnstone<br/>
-<strong><a target="_blank" rel="noopener noreferrer" href="https://sites.google.com/fullerton.edu/csufmeta/" aria-label="META Grant website (opens in a new tab)">META Grant website</a></strong>
+<strong><a target="_blank" rel="noopener noreferrer" href="https://sites.google.com/fullerton.edu/csufmeta/">META Grant website</a></strong>
 
 - **Summer Undergraduate Research Academy (SUReA) at CSUF**<br/>
 _Investigating Chaos in Infectious Disease Dynamics with Changeable Attitudes toward Vaccination_<br/>
