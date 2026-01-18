@@ -8,3 +8,8 @@
 body.home h1.page-title {
   display: none;
 }
+
+/* Hide site title in footer only */
+footer .site-title {
+  display: none;
+}
