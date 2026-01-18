@@ -8,7 +8,13 @@ title: Overview
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
-        WiMSoCal 2026<br />Los Angeles, CA <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> February 2026
+        WiMSoCal 2026<br />Los Angeles, CA <span aria-hidden="true"
+      style="display:inline-block;
+             height:1em;
+             border-left:1px solid #999;
+             margin:0 0.75em;
+             vertical-align:middle;">
+</span> February 2026
       </li>
       <li>
         Collaborate@ICERM<br />Providence, RI <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> June 2026
