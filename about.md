@@ -11,7 +11,7 @@ permalink: /about/
 <img src="/images/siuetalk3.jpg" alt="Presentation photo" style="float: right; max-width: 180px; margin-left: 1rem; margin-bottom: 1rem; border-radius: 5px;" />
 
 <div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
-  All external links on this page open in a new tab.
+  Note: All external links on this page open in a new tab.
 </div>
 
 <p>
