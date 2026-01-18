@@ -23,7 +23,7 @@ permalink: /teaching/
 </ul>
 <h2>MIT</h2>
 - 18.01: Single Variable Calculus (Spring 2019)
-- Differential Equations, <a target="_blank" rel="noopener noreferrer" href="https://mites.mit.edu/">MITES Program</a> (Summer 2018)
+- Differential Equations, <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://mites.mit.edu/">MITES Program</a> (Summer 2018)
 
 <h2>MOOC Development</h2>
 - 18.01x Single Variable Calculus Series: <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/">Differentiation</a>, <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/">Integration</a>, and <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/">Coordinate Systems & Infinite Series</a>, Online Facilitator
