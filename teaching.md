@@ -9,12 +9,12 @@ permalink: /teaching/
 <h2>CSU Fullerton</h2>
 <h3>Spring 2026</h3>
 <ul>
-  <li><strong><a target="_blank" rel="noopener noreferrer" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=80&coid=541338">MATH 207 - Differential Equations and Linear Algebra</a></strong></li>
-  <li><strong><a target="_blank" rel="noopener noreferrer" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=80&coid=539101">MATH 150A - Calculus I</a></strong></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=80&coid=541338">MATH 207 - Differential Equations and Linear Algebra</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=80&coid=539101">MATH 150A - Calculus I</a></li>
 </ul>
 <h3>Past Courses</h3>
 <ul>
-  <li><strong><a target="_blank" rel="noopener noreferrer" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=95&coid=596660">MATH 500A - Advanced Linear Algebra and Applications</a></strong></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=95&coid=596660">MATH 500A - Advanced Linear Algebra and Applications</a></li>
   <li><strong><a target="_blank" rel="noopener noreferrer" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=95&coid=596661">MATH 500B - Applied Analysis</a></strong></li>
   <li><strong><a target="_blank" rel="noopener noreferrer" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=75&coid=518572">MATH 340 - Numerical Analysis</a></strong></li>
   <li><strong><a target="_blank" rel="noopener noreferrer" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=70&coid=494089">MATH 320 - Introduction to Mathematical Computation</a></strong></li>
