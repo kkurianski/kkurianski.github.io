@@ -14,11 +14,11 @@ permalink: /about/
 I'm an Associate Professor of Mathematics at California State University Fullerton (CSUF), a <strong><a target="_blank" rel="noopener noreferrer" href="https://www.fullerton.edu/research/provost-faculty-fellows/" aria-label="2025-2026 CSUF Provost Faculty Fellow (opens in a new tab)">2025-2026 CSUF Provost Faculty Fellow</a></strong>, a <strong><a target="_blank" rel="noopener noreferrer" href="https://www.siam.org/publications/siam-news/articles/2024-class-of-mgb-siam-early-career-fellows/" aria-label="2024-2026 MGB-SIAM Early Career Fellow (opens in a new tab)">2024-2026 MGB-SIAM Early Career Fellow</a></strong>, and a <strong><a target="_blank" rel="noopener noreferrer" href="https://maa.org/maa-project-next/" aria-label="2020 Project NExT (opens in a new tab)">2020 Project NExT</a></strong> Brown Dot.
     I earned my B.S. in applied mathematics from Cal Poly Pomona and my Ph.D. in mathematics from MIT under the supervision of Gigliola Staffilani.
     As a graduate student, I was an NSF Graduate Research Fellow, an MIT Dean of Science Fellow, and a 2019 MIT Graduate Woman of Excellence.
-    I'm a first-generation college student, and as an undergrad I participated in the <strong><a target="_blank" rel="noopener noreferrer" href="https://www.cpp.edu/mcnair/index.shtml">McNair Scholars Program</a></strong>, 
-    the <strong><a target="_blank" rel="noopener noreferrer" href="https://www.mathalliance.org/">Math Alliance</a></strong>, and the <strong><a target="_blank" rel="noopener noreferrer" href="https://oge.mit.edu/graddiversity/msrp/">MIT Summer Research Program</a></strong> 
+    I'm a first-generation college student, and as an undergrad I participated in the <strong><a target="_blank" rel="noopener noreferrer" href="https://www.cpp.edu/mcnair/index.shtml" aria-label="McNair Scholars Program (opens in a new tab)">McNair Scholars Program</a></strong>, 
+    the <strong><a target="_blank" rel="noopener noreferrer" href="https://www.mathalliance.org/" aria-label="Math Alliance (opens in a new tab)">Math Alliance</a></strong>, and the <strong><a target="_blank" rel="noopener noreferrer" href="https://oge.mit.edu/graddiversity/msrp/" aria-label="MIT Summer Research (opens in a new tab)">MIT Summer Research Program</a></strong> 
     (I encourage students to check out all of them!). After receiving my doctorate, 
     I stayed at MIT for an additional year as a Postdoctoral Associate in Digital Learning where I helped develop and facilitate 
-    Massive Open Online Courses through <strong><a target="_blank" rel="noopener noreferrer" href="https://www.edx.org/school/mitx">MITx/edX</a></strong>.
+    Massive Open Online Courses through <strong><a target="_blank" rel="noopener noreferrer" href="https://www.edx.org/school/mitx" aria-label="MITx/edX (opens in a new tab)">MITx/edX</a></strong>.
     I then moved back to my home state in 2020 to start my position at CSUF.
 </p>
 
