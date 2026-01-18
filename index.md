@@ -4,8 +4,6 @@ title: Home
 ---
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <p><em>Associate Professor of Mathematics<br />
-    California State University, Fullerton</em></p>
     <p>I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
     <h1>Upcoming Meetings</h1>
     <ul>
@@ -19,6 +17,8 @@ title: Home
   </div>
   <div style="flex: 0 0 250px; align-self: flex-start;">
     <img src="/images/2022_0Kurianski_headshot.png" alt="Kristin Kurianski headshot" style="max-width: 100%; border-radius: 8px; margin-top: 0;" />
+    <p style="margin-top: 8px;"><em>Associate Professor of Mathematics<br />
+    California State University, Fullerton</em></p>
   </div>
 </div>
 <br />
