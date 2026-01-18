@@ -2,6 +2,9 @@
 layout: home
 title: Home
 ---
+<header><div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
+  Note: All external links on this page open in a new tab.
+</div></header>
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h1>Kristin Kurianski, Ph.D.</h1>
