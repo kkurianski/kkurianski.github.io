@@ -5,8 +5,8 @@ title: Home
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h1>Kristin Kurianski, Ph.D.</h1>
-    <p><strong>Associate Professor of Mathematics<br />
-    California State University, Fullerton</strong></p>
+    <p><em>Associate Professor of Mathematics<br />
+    California State University, Fullerton</em></p>
     <p>I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
     <h1>Upcoming Meetings</h1>
     <ul>
