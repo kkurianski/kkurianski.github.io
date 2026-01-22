@@ -2,12 +2,12 @@
 layout: page-with-sidebar
 title: Teaching
 permalink: /teaching/
----
 sidebar:
   heading: Spring Office Hours
   content: |
     - Tuesdays, 9:00 AM - 10:00 AM
     - Wednesdays, 2:30 PM - 4:30 PM
+---
 <div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
   Note: External links open in new tabs.
 </div>
