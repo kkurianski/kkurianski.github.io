@@ -25,7 +25,7 @@ title: Overview
   <p style="margin: 0; line-height: 1.4; text-align: center;">
     <em>Associate Professor of Mathematics<br />
     California State University, Fullerton</em></p>
-    <hr />
+    <hr style="width: 100%; margin: 1rem 0;" />
     <strong>Spring 2026 Office Hours</strong>
     <ul>
       <li>
