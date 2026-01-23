@@ -2,6 +2,9 @@
 layout: home
 title: Overview
 ---
+<div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
+  Note: External links open in new tabs. Email links open default email applications.
+</div>
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <p>I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
@@ -32,13 +35,10 @@ title: Overview
        alt="Kristin Kurianski headshot"
        style="width: 200px; border-radius: 8px; margin-bottom: 8px;" />
   <p style="margin: 0; line-height: 1.4; text-align: center;">
-    <em>Associate Professor of Mathematics<br />
-    California State University, Fullerton</em></p>
+    <em>Associate Professor<br />
+    California State University, Fullerton<br />
+    <a target="_blank" rel="noopener noreferrer" href="https://www.fullerton.edu/MATH/" style="font-weight: bold;">Department of Mathematics</a></em></p>
 </div>
-</div>
-
-<div role="note" style="font-size: 0.85em; color: #555; margin-bottom: 1rem;">
-  Note: External links open in new tabs. Email links open default email applications.
 </div>
 <h2 style="text-align:center;">Contact</h2>
 <div style="text-align:center;">
