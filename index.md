@@ -25,6 +25,16 @@ title: Overview
   <p style="margin: 0; line-height: 1.4; text-align: center;">
     <em>Associate Professor of Mathematics<br />
     California State University, Fullerton</em>
+    <hr />
+    <strong>Spring 2026 Office Hours</strong>
+    <ul>
+      <li>
+        Tuesdays, 9:00 AM - 10:00 AM
+      </li>
+      <li>
+        Wednesdays, 2:30 PM - 4:30 PM
+      </li>
+    </ul>
   </p>
 </div>
 </div>
