@@ -17,6 +17,15 @@ title: Overview
         SIAM Annual Meeting<br />Cleveland, OH <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2026
       </li>
     </ul>
+    <h1>Spring 2026 Office Hours</h1>
+    <ul>
+      <li>
+        Tuesdays, 9:00 AM - 10:00 AM
+      </li>
+      <li>
+        Wednesdays, 2:30 PM - 4:30 PM
+      </li>
+    </ul>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; max-width: 350px;">
   <img src="/images/2022_0Kurianski_headshot.png"
@@ -25,14 +34,6 @@ title: Overview
   <p style="margin: 0; line-height: 1.4; text-align: center;">
     <em>Associate Professor of Mathematics<br />
     California State University, Fullerton</em></p>
-    <hr style="width: 100%; margin: 1rem 0;" />
-    <div style="align-self: stretch; text-align: left;">
-      <strong>Spring 2026 Office Hours</strong>
-      <ul style="margin-top: 0.5rem; padding-left: 1.2em;">
-        <li>Tuesdays, 9:00 AM – 10:00 AM</li>
-        <li>Wednesdays, 2:30 PM – 4:30 PM</li>
-      </ul>
-    </div>
 </div>
 </div>
 
