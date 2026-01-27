@@ -8,9 +8,9 @@ permalink: /research/
 </div>
 <h2>Selected Papers</h2>
 <ul>
-  <li>Timofeyev T., Potvin, C., Jones, B., Kurianski, K. M,, Lopez, M., Tanweer, S. (2026). Asymmetrically Weighted Dowker Persistence and Applications in Dynamical Systems. (arXiv preprint) <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://arxiv.org/abs/2601.04559">arXiv:2601.04559</a>.
+  <li>Timofeyev T., Potvin, C., Jones, B., Kurianski, K. M., Lopez, M., Tanweer, S. (2026). Asymmetrically weighted dowker persistence and applications in dynamical systems. (arXiv preprint) <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://arxiv.org/abs/2601.04559">arXiv:2601.04559</a>.
   </li><br/>
-  <li>Cicala, D., Jiang, Y., Lee, J. H., Kurianski, K., & Ledder, G. (2025). A Mathematical Model of Opinion Dynamics with Application to Vaccine Denial. (arXiv preprint) <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://arxiv.org/abs/2511.18166">arXiv:2511.18166</a>.</li><br/>
+  <li>Cicala, D., Jiang, Y., Lee, J. H., Kurianski, K., & Ledder, G. (2025). A mathematical model of opinion dynamics with application to vaccine denial. (arXiv preprint) <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://arxiv.org/abs/2511.18166">arXiv:2511.18166</a>.</li><br/>
   <li>Aminian, M., & Kurianski, K. M. (2025). Sparse identification of epidemiological compartment models with conserved quantities. (arXiv preprint) <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://arxiv.org/pdf/2510.19762">arXiv:2510.19762</a>.</li><br/>
   <li>Jiang, Y., Kurianski, K. M., Lee, J., Ma, Y., Cicala, D., & Ledder, G. (2025). Incorporating flexible ideology about vaccination into compartment models for infectious disease. <emph>Math. Biosci. Eng., 22</emph>(2), 260-289. <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.aimspress.com/article/doi/10.3934/mbe.2025011">doi: 10.3934/mbe.2025011</a>
   </li><br/>
