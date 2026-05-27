@@ -7,7 +7,6 @@ permalink: /teaching/
   Note: External links open in new tabs.
 </div>
 <h2>CSU Fullerton</h2>
-<h3>Past Courses</h3>
 <ul>
   <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" style="font-weight: bold;" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=95&coid=596660">MATH 500A - Advanced Linear Algebra and Applications</a></li>
   <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://catalog.fullerton.edu/preview_course_nopop.php?catoid=95&coid=596661">MATH 500B - Applied Analysis</a></li>
