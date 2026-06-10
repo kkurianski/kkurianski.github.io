@@ -16,6 +16,9 @@ title: Overview
       <li>
         SIAM Annual Meeting<br />Cleveland, OH <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2026
       </li>
+      <li>
+        CA Learning Lab INSPIRE<br />Los Angeles, CA <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> October 2026
+      </li>
     </ul>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; max-width: 350px;">
