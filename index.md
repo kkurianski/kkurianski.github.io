@@ -11,9 +11,6 @@ title: Overview
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
-        Collaborate@ICERM<br />Providence, RI <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> June 2026
-      </li>
-      <li>
         SIAM Annual Meeting<br />Cleveland, OH <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2026
       </li>
       <li>
