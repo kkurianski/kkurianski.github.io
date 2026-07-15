@@ -11,6 +11,9 @@ title: Overview
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
+        Data Science in the Classroom Conference<br />Riverside, CA <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2026
+      </li>
+      <li>
         CA Learning Lab INSPIRE Convening<br />Los Angeles, CA <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> October 2026
       </li>
     </ul>
