@@ -33,7 +33,7 @@ I'm an Associate Professor of Mathematics at California State University Fullert
 <p>
 In my free time, I enjoy playing soccer (midfield/striker), exploring local coffee shops, and reading fantasy (a favorite being 
     The Stormlight Archive by Brandon Sanderson, and I'm currently making my way through The Wheel of Time series by Robert Jordan).
-    I also play the flute in the <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.fullerton.edu/arts/music/students/ensembles/band.php">CSUF University Band</a>, 
+    I also play the flute in the <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.fullerton.edu/arts/music/students/ensembles/index.html">CSUF University Band</a>, 
     and perhaps most importantly, I have two cats (Lucius and Cooper).
 </p>
 
