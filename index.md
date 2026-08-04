@@ -11,6 +11,9 @@ title: Overview
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
+        CA Learning Lab INSPIRE Convening<br />Los Angeles, CA <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> October 2026
+      </li>
+      <li>
         NITMB Computational Biofluids at PUIs<br />Chicago, IL <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2027 
       </li>
     </ul>
