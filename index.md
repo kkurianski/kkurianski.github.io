@@ -11,7 +11,7 @@ title: Overview
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
-        NITMB Computational Biofluids at PUIs<br />Chicago, IL<span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2027 
+        NITMB Computational Biofluids at PUIs<br />Chicago, IL <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2027 
       </li>
     </ul>
   </div>
