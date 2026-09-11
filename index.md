@@ -7,7 +7,7 @@ title: Overview
 </div>
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <p>I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and fluid mechanics.</p>
+    <p>I have active research projects broadly in mathematical modeling, dynamical systems, epidemiology, and numerical methods for biofluids.</p>
     <h1>Upcoming Meetings</h1>
     <ul>
       <li>
