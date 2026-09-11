@@ -14,6 +14,9 @@ title: Overview
         CA Learning Lab INSPIRE Convening<br />Los Angeles, CA <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> October 2026
       </li>
       <li>
+        NITMB Focused Research Group<br />Chicago, IL <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> January 2027 
+      </li>
+      <li>
         NITMB Computational Biofluids at PUIs<br />Chicago, IL <span aria-hidden="true" style="margin: 0 0.5em; color: #999;">|</span> July 2027 
       </li>
     </ul>
