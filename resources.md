@@ -18,3 +18,11 @@ Please contact me if you have questions or want to learn more about the organiza
 <h2>Research, Academic, and Career Opportunities</h2>
 
 I keep a running <a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://docs.google.com/document/d/1STAmEXSGrr9-8CtNvOTbPE25mmNWv_tvlxLXPAgKaDA/edit?usp=sharing">list of resources and opportunities</a> that I have come across over the years. I try to keep this as up-to-date as possible, but some links may be old.
+
+<h2>Community Building</h2>
+<ul>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://awm-math.org/">Association for Women in Mathematics</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.lgbtmath.org/">Spectra: The Association for LGBTQ+ Mathematicians</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://mathematicallygiftedandblack.com/">Mathematically Gifted and Black</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.lathisms.org/">Lathisms: Latinxs and Hispanics in the Mathematical Sciences</a></li>
+</ul>
