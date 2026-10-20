@@ -21,8 +21,8 @@ I keep a running <a target="_blank" rel="noopener noreferrer" style="font-weight
 
 <h2>Community Building</h2>
 <ul>
-  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://awm-math.org/">Association for Women in Mathematics</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.lgbtmath.org/">Spectra: The Association for LGBTQ+ Mathematicians</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://mathematicallygiftedandblack.com/">Mathematically Gifted and Black</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.lathisms.org/">Lathisms: Latinxs and Hispanics in the Mathematical Sciences</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://awm-math.org/">Association for Women in Mathematics (AWM)</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.lgbtmath.org/">Association for LGBTQ+ Mathematicians (Spectra)</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://mathematicallygiftedandblack.com/">Mathematically Gifted and Black (MGB)</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" style="font-weight: bold;" href="https://www.lathisms.org/">Latinxs and Hispanics in the Mathematical Sciences (Lathisms)</a></li>
 </ul>
